@@ -11,11 +11,11 @@ import (
 )
 
 func getSmsToken() string {
-	url := "https://RestfulSms.com/api/Token"
+	url := "test"
 
 	requestBody, err := json.Marshal(map[string]string{
-		"UserApiKey": "cb4721ccc99ea248b3cd21cc",
-		"SecretKey":  "cafekalaa_b@kht!y@r!.me",
+		"test": "test",
+		"test":  "test",
 	})
 
 	if err != nil {
