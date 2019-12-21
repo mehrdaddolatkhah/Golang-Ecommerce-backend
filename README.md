@@ -11,8 +11,10 @@ Most businesses today do their job online and serve their customers. With this c
 
 - How to run project
 download source code or clone it in your computer then go to the root path of the project. then run 
+
 go get -u ./...
 
 for get all the dependency used in this project. then make a database in Postgres and add your database config into /config/config.go
 and go to the root project directory and run 
+
 go run main.go
