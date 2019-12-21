@@ -1,7 +1,6 @@
 # Golang-Ecommerce-backend
-- What this project does?!
 
-- Cafekala backend
+- What this project does?!
 This project developed by Mehrdad Dolatkhah for Cafekalaa company and released as an open-source project for anyone that wants to see what happens in this service in the back-end side and if need some part of code in GPL V3 rules use codes.
 
 
